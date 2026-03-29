@@ -1,0 +1,10 @@
+torch>=1.13.1
+torchvision>=0.14.1
+numpy
+matplotlib
+opencv-python
+Pillow
+scikit-learn
+segmentation-models-pytorch
+albumentations
+tqdm
